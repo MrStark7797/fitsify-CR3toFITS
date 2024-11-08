@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Define source and destination directories
-SOURCE_DIR="/home/joebishop/Pictures/DslrDashboard/"
-DEST_DIR="/home/joebishop/Documents/Uni/Clubs/AstroSoc/SirilLive/"
-ARCHIVE_DIR="/home/joebishop/Documents/Uni/Clubs/AstroSoc/PhotoArchive/"
+SOURCE_DIR="/home/user/Pictures/DslrDashboard/"
+DEST_DIR="/home/user/SirilLive/"
+ARCHIVE_DIR="/home/user/PhotoArchive/"
 
 # Monitor for new files
 while true; do
